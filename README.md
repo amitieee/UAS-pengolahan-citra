@@ -1,1 +1,0 @@
-# UAS-pengolahan-citra
